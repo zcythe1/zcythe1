@@ -2,7 +2,11 @@
 <p>
 Hey im zcythe!
 <br>
-I love python and automation and i think that computer science and ai are really interesting too!
+Some of my interests are:
+  - Python & automation
+  - Javascript and frontend
+  - Ai
+  - Computer science
 </b>
 </p>
 <!---
