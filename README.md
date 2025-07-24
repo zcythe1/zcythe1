@@ -1,12 +1,13 @@
 <b>
 <p>
-Hey im zcythe!
+Hello i'm Max!
 <br>
 Some of my interests are:
   - Python & automation
-  - Javascript and frontend
+  - Javascript
   - Ai
-  - Computer science
+  - Computer science in general
+  - Maths
 </b>
 </p>
 <!---
